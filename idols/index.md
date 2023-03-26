@@ -2,5 +2,6 @@
 ## 보존된 아이돌 갤러리 목록
 * [tkgk](idols/tkgk)
 * [ykm](idols/ykm)
-* [tkgk](idols/tkgk)
-* [ykm](idols/ykm)
+* [tkfj](idols/tkfj)
+## 보존된 푸치 프로필 목록
+* [puchi](etc/puchi/puchi)
