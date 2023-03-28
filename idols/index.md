@@ -3,5 +3,7 @@
 * [tkgk](idols/tkgk)
 * [ykm](idols/ykm)
 * [tkfj](idols/tkfj)
+## 보존된 기타 커뮤 목록
+* [Special](etc/commu/Special)
 ## 보존된 푸치 프로필 목록
 * [puchi](etc/puchi/puchi)
