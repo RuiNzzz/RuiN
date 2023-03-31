@@ -27,4 +27,4 @@
 * [tour_op](idols/etc/episodes/tour_op)
 * [unit_op](idols/etc/episodes/unit_op)
 ## 보존된 푸치 프로필 목록
-* [puchi](idols/etc/puchi/puchi)
+* [puchi](etc/puchi/puchi)
